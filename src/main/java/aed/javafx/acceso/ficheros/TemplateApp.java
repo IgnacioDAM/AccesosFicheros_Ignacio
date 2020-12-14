@@ -1,4 +1,4 @@
-package dad.template.javafx;
+package aed.javafx.acceso.ficheros;
 
 import javafx.application.Application;
 import javafx.scene.Scene;

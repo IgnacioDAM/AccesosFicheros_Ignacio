@@ -1,4 +1,4 @@
-package dad.template.javafx;
+package aed.javafx.acceso.ficheros;
 
 public class Main {
 

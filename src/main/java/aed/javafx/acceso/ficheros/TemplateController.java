@@ -1,4 +1,4 @@
-package dad.template.javafx;
+package aed.javafx.acceso.ficheros;
 
 import java.io.IOException;
 import java.net.URL;
